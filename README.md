@@ -1,4 +1,4 @@
-# Antes de colar na IA#
+# Antes de colar na IA
 
 Site que ajuda funcionários do setor administrativo a usar ferramentas de IA generativa sem expor dados pessoais e confidenciais. É o recurso complementar do manual **“IA no trabalho com segurança”**, projeto da disciplina Fontes de Informação II (Gestão da Informação, UFPE, 2026).
 
